@@ -1,0 +1,16 @@
+#liens {display:flex; justify-content: flex-end; flex-direction: row ;}
+
+#centrepage {display:flex; align-items: center; justify-content: center;}
+
+#searchbar {width:1040px; height:auto; display:flex; align-items: center; justify-content: space-around;}
+    
+    .formulaire               {display:flex; align-items: center; justify-content: center; }
+    .formulaire .champ       {width:600px; height:35px;}
+    .formulaire .bouton       { background-image: url(images/searchbar_button.png);background-repeat: no-repeat;width: 35px;height: 35px; }
+
+#boutons {display:flex; align-items: center; justify-content: center;}
+    
+
+#piedepage {display:flex; align-items: center; flex-direction: row ; justify-content: space-between; }
+    .eleml1     {display:flex; align-items: center; justify-content: space-between; }
+    .eleml2     {display:flex; align-items: center; justify-content: space-between; }
